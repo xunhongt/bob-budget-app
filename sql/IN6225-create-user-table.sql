@@ -1,0 +1,11 @@
+CREATE DATABASE IF NOT EXISTS budgetapp;
+USE budgetapp;
+
+CREATE TABLE USER(
+    username VARCHAR(20) NOT NULL,
+	firstName VARCHAR(50) NOT NULL,
+	lastName VARCHAR(50) NOT NULL,	
+	password VARCHAR(100) NOT NULL,
+	email VARCHAR(100) NOT NULL,
+    PRIMARY KEY (username)
+);

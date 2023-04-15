@@ -1,0 +1,16 @@
+categoryId,categoryName,categoryType
+1,Housing,E
+2,Transport,E
+3,Food,E
+4,Utilities,E
+5,Clothing,E
+6,Medical,E
+7,Insurance,E
+8,Household Items,E
+9,Personal,E
+10,Debt,E
+11,Education,E
+12,Entertainment,E
+13,Gifts,E
+14,Savings,I
+15,Salary,I
